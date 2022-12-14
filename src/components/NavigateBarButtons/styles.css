@@ -1,0 +1,14 @@
+.containerButtons {
+    display: flex;
+    justify-content: center;
+    gap:16px;
+}
+
+button {
+  height: 40px;
+  border:none;
+  outline: none;
+  background: none;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
